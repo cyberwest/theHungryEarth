@@ -271,30 +271,30 @@ pop.googlemap({
     });	
     
 pop.image({
-    start: 251
-    end: 262
-    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/-RpeglB-7H/fire_girl_lg.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ"
+    start: 251,
+    end: 262,
+    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/-RpeglB-7H/fire_girl_lg.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ",
     target: "show"
     });	
     
 pop.image({
-    start: 262
-    end: 273
-    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/EO83YfCMtp/ghost-window.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ"
+    start: 262,
+    end: 273,
+    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/EO83YfCMtp/ghost-window.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ",
     target: "show"
     });	
     
 pop.image({
-    start: 273
-    end: 284
-    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/c_RiUGwwnO/ghost%2Bwindow.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ"
+    start: 273,
+    end: 284,
+    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/c_RiUGwwnO/ghost%2Bwindow.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ",
     target: "show"
     });	
     
 pop.image({
-    start: 284
-    end: 295
-    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/pKugsYU8PA/images.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ"
+    start: 284,
+    end: 295,
+    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/pKugsYU8PA/images.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ",
     target: "show"
     });
 	

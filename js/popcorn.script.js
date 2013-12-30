@@ -11,8 +11,8 @@ pop.flickr({
 	});
 	
 pop.wikipedia({
-       start: 0,
-       end: 21,
+       start: 1,
+       end: 61,
        src: "http://en.wikipedia.org/wiki/Heygate_Estate",
        title: "Heygate Estate",
        target: "info"
@@ -109,15 +109,15 @@ pop.flickr({
 	});
 	
 pop.footnote({
-        start: 21,
-        end: 39,
+        start: 35,
+        end: 53,
         text: '<object type="application/x-shockwave-flash" id="embeddedPlayer_11005502" data="http://emp.bbci.co.uk/emp/releases/worldwide/revisions/749603_749269_749444_6/749603_749269_749444_6_emp.swf" width="448" height="252" style="visibility: visible;"><param name="quality" value="high"><param name="wmode" value="default"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><param name="flashvars" value="embedReferer=&amp;embedPageUrl=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-england-london-10943044&amp;uxHighlightColour=0xff0000&amp;domId=emp-11005502-588&amp;enable3G=true&amp;playlist=http%3A%2F%2Fplaylists.bbc.co.uk%2Fnews%2Fuk-england-london-11005502A%2Fplaylist.sxml&amp;config=http%3A%2F%2Fwww.bbc.co.uk%2Fplayer%2Femp%2F2_0_55%2Fconfig%2Fdefault.xml&amp;fmtjDocURI=%2Fnews%2Fuk-england-london-10943044&amp;config_settings_showShareButton=true&amp;config_settings_autoPlay=true&amp;config_settings_showPopoutButton=false&amp;config_plugin_fmtjLiveStats_pageType=eav2&amp;config_plugin_fmtjLiveStats_edition=Domestic&amp;config_settings_showUpdatedInFooter=true&amp;holdingImage=http%3A%2F%2Fnews.bbcimg.co.uk%2Fmedia%2Fimages%2F48773000%2Fgif%2F_48773288_policeshooting.gif&amp;mediatorHref=http%3A%2F%2Fopen.live.bbc.co.uk%2Fmediaselector%2F5%2Fselect%2Fversion%2F2.0%2Fmediaset%2Fjournalism-pc%2Fvpid%2F%7Bid%7D"></object>',
-        target: "info"
+        target: "show"
         });
         
 pop.flickr({
 	start: 21,
-	end: 25,
+	end: 23,
 	tags: "three,men,shadows",
 	numberofimages: 1,
 	height: "200px",
@@ -126,8 +126,8 @@ pop.flickr({
 	});
         
 pop.flickr({
-	start: 25,
-	end: 30,
+	start: 23,
+	end: 25,
 	tags: "three,men,shadows",
 	numberofimages: 2,
 	height: "200px",
@@ -136,8 +136,8 @@ pop.flickr({
 	});
         
 pop.flickr({
-	start: 30,
-	end: 35,
+	start: 25,
+	end: 27,
 	tags: "three,men,shadows",
 	numberofimages: 3,
 	height: "200px",
@@ -146,8 +146,8 @@ pop.flickr({
 	});
         
 pop.flickr({
-	start: 35,
-	end: 40,
+	start: 27,
+	end: 29,
 	tags: "three,men,shadows",
 	numberofimages: 4,
 	height: "200px",
@@ -156,8 +156,8 @@ pop.flickr({
 	});
         
 pop.flickr({
-	start: 40,
-	end: 45,
+	start: 29,
+	end: 32,
 	tags: "three,men,shadows",
 	numberofimages: 5,
 	height: "200px",
@@ -166,8 +166,8 @@ pop.flickr({
 	});
         
 pop.flickr({
-	start: 45,
-	end: 50,
+	start: 32,
+	end: 35,
 	tags: "three,men,shadows",
 	numberofimages: 6,
 	height: "100px",
@@ -184,7 +184,7 @@ pop.footnote({
 	
 pop.googlemap({
     start: 210,
-    end: 212,
+    end: 213,
     type: "ROADMAP",
     target: "show",
     location: "51.49444,-0.09591",
@@ -194,8 +194,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 212,
-    end: 214,
+    start: 213,
+    end: 216,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -205,8 +205,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 214,
-    end: 216,
+    start: 216,
+    end: 219,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -216,8 +216,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 216,
-    end: 218,
+    start: 219,
+    end: 222,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -227,8 +227,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 218,
-    end: 220,
+    start: 222,
+    end: 225,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -238,8 +238,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 220,
-    end: 222,
+    start: 225,
+    end: 228,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -249,8 +249,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 222,
-    end: 224,
+    start: 228,
+    end: 231,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -260,7 +260,7 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 224,
+    start: 231,
     end: 251,
     type: "STREETVIEW",
     target: "show",

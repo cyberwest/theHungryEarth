@@ -1,0 +1,194 @@
+var pop = Popcorn.soundcloud( "#video", "http://soundcloud.com/corneliuszg/hungry-earth-mix01" );
+
+/**
+pop.footnote({
+    start: 1,
+    end: 5,
+    text: "Works with SoundCloud!",
+    target: "show"
+});
+**/
+
+pop.googlemap({
+    start: 1,
+    end: 10,
+    type: "ROADMAP",
+    target: "show",
+    location: "51.49444,-0.09591",
+    heading: 0,
+  	pitch: 1,
+  	zoom: 10
+    });
+    
+pop.googlemap({
+    start: 10,
+    end: 15,
+    type: "SATELLITE",
+    target: "show",
+    location: "51.49444,-0.09591",
+    heading: 0,
+  	pitch: 1,
+  	zoom: 10
+    });
+    
+pop.googlemap({
+    start: 15,
+    end: 20,
+    type: "SATELLITE",
+    target: "show",
+    location: "51.49444,-0.09591",
+    heading: 0,
+  	pitch: 1,
+  	zoom: 12
+    });
+    
+pop.googlemap({
+    start: 20,
+    end: 25,
+    type: "SATELLITE",
+    target: "show",
+    location: "51.49444,-0.09591",
+    heading: 0,
+  	pitch: 1,
+  	zoom: 14
+    });
+    
+pop.googlemap({
+    start: 25,
+    end: 30,
+    type: "SATELLITE",
+    target: "show",
+    location: "51.49444,-0.09591",
+    heading: 0,
+  	pitch: 1,
+  	zoom: 16
+    });
+    
+pop.googlemap({
+    start: 30,
+    end: 35,
+    type: "SATELLITE",
+    target: "show",
+    location: "51.49444,-0.09591",
+    heading: 0,
+  	pitch: 1,
+  	zoom: 17
+    });
+    
+pop.googlemap({
+    start: 35,
+    end: 40,
+    type: "SATELLITE",
+    target: "show",
+    location: "51.49444,-0.09591",
+    heading: 0,
+  	pitch: 1,
+  	zoom: 18
+    });
+    
+pop.googlemap({
+    start: 40,
+    end: 80,
+    type: "STREETVIEW",
+    target: "show",
+    location: "51.49444,-0.09591",
+    heading: 190,
+  	pitch: 5,
+  	zoom: 0
+    });   
+    
+pop.flickr({
+	start: 80,
+	end: 1000,
+	tags: "heygate",
+	height: "200px",
+	width: "200px",
+	target: "show"
+	});
+    
+/**
+
+popcorn.googlemap({
+  "start": 20,
+  "end": 1853.542828397376,
+  "target": "video-container",
+  "type": "STREETVIEW",
+  "location": "",
+  "fullscreen": false,
+  "heading": 0,
+  "pitch": 0,
+  "zoom": 0,
+  "transition": "popcorn-fade",
+  "left": 0,
+  "top": 0,
+  "width": 99.6875,
+  "height": 99.44444444444444,
+  "lat": 51.49715,
+  "lng": -0.10869999999999891,
+  "zindex": 1000,
+  "id": "TrackEvent5"
+});
+popcorn.googlemap({
+  "start": 10,
+  "end": 20,
+  "target": "video-container",
+  "type": "SATELLITE",
+  "location": "51.49444,-0.09591",
+  "fullscreen": false,
+  "heading": 0,
+  "pitch": 1,
+  "zoom": 10,
+  "transition": "popcorn-fade",
+  "left": 0,
+  "top": 0,
+  "width": 99.6875,
+  "height": 99.44444444444444,
+  "lat": 0,
+  "lng": 0,
+  "zindex": 999,
+  "id": "TrackEvent4"
+});
+popcorn.googlemap({
+  "start": 0,
+  "end": 10,
+  "target": "video-container",
+  "type": "ROADMAP",
+  "location": "51.49444,-0.09591",
+  "fullscreen": false,
+  "heading": 0,
+  "pitch": 1,
+  "zoom": 10,
+  "transition": "popcorn-fade",
+  "left": 0,
+  "top": 0,
+  "width": 99.6875,
+  "height": 99.44444444444444,
+  "lat": 0,
+  "lng": 0,
+  "zindex": 998,
+  "id": "TrackEvent2"
+});
+popcorn.googlemap({
+  "start": 0,
+  "end": 5,
+  "target": "video-container",
+  "type": "STREETVIEW",
+  "location": "heygate estate",
+  "fullscreen": false,
+  "heading": 0,
+  "pitch": 0,
+  "zoom": 0,
+  "transition": "popcorn-fade",
+  "left": 0,
+  "top": 0,
+  "width": 99.6875,
+  "height": 99.44444444444444,
+  "lat": 43.65613,
+  "lng": -79.38040000000001,
+  "zindex": 997,
+  "id": "TrackEventTrackEvent3"
+});
+
+**/
+
+pop.play();

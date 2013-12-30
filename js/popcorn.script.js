@@ -12,7 +12,7 @@ pop.flickr({
 	
 pop.wikipedia({
        start: 0,
-       end: 20,
+       end: 21,
        src: "http://en.wikipedia.org/wiki/Heygate_Estate",
        title: "Heygate Estate",
        target: "info"
@@ -107,6 +107,13 @@ pop.flickr({
 	width: "100px",
 	target: "show"
 	});
+	
+pop.footnote({
+        start: 21,
+        end: 39,
+        text: '<object type="application/x-shockwave-flash" id="embeddedPlayer_11005502" data="http://emp.bbci.co.uk/emp/releases/worldwide/revisions/749603_749269_749444_6/749603_749269_749444_6_emp.swf" width="448" height="252" style="visibility: visible;"><param name="quality" value="high"><param name="wmode" value="default"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><param name="flashvars" value="embedReferer=&amp;embedPageUrl=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-england-london-10943044&amp;uxHighlightColour=0xff0000&amp;domId=emp-11005502-588&amp;enable3G=true&amp;playlist=http%3A%2F%2Fplaylists.bbc.co.uk%2Fnews%2Fuk-england-london-11005502A%2Fplaylist.sxml&amp;config=http%3A%2F%2Fwww.bbc.co.uk%2Fplayer%2Femp%2F2_0_55%2Fconfig%2Fdefault.xml&amp;fmtjDocURI=%2Fnews%2Fuk-england-london-10943044&amp;config_settings_showShareButton=true&amp;config_settings_autoPlay=true&amp;config_settings_showPopoutButton=false&amp;config_plugin_fmtjLiveStats_pageType=eav2&amp;config_plugin_fmtjLiveStats_edition=Domestic&amp;config_settings_showUpdatedInFooter=true&amp;holdingImage=http%3A%2F%2Fnews.bbcimg.co.uk%2Fmedia%2Fimages%2F48773000%2Fgif%2F_48773288_policeshooting.gif&amp;mediatorHref=http%3A%2F%2Fopen.live.bbc.co.uk%2Fmediaselector%2F5%2Fselect%2Fversion%2F2.0%2Fmediaset%2Fjournalism-pc%2Fvpid%2F%7Bid%7D"></object>',
+        target: "info"
+        });
 	
 /**
 

@@ -182,13 +182,9 @@ pop.footnote({
         target: "show"
         });
 	
-	
-	
-/**
-
 pop.googlemap({
-    start: 1,
-    end: 10,
+    start: 210,
+    end: 220,
     type: "ROADMAP",
     target: "show",
     location: "51.49444,-0.09591",
@@ -198,8 +194,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 10,
-    end: 15,
+    start: 220,
+    end: 225,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -209,8 +205,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 15,
-    end: 20,
+    start: 225,
+    end: 230,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -220,8 +216,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 20,
-    end: 25,
+    start: 230,
+    end: 235,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -231,8 +227,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 25,
-    end: 30,
+    start: 235,
+    end: 240,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -242,8 +238,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 30,
-    end: 35,
+    start: 240,
+    end: 245,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -253,8 +249,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 35,
-    end: 40,
+    start: 245,
+    end: 250,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -264,15 +260,19 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 40,
-    end: 80,
+    start: 250,
+    end: 290,
     type: "STREETVIEW",
     target: "show",
     location: "51.49444,-0.09591",
     heading: 190,
   	pitch: 5,
   	zoom: 0
-    });   
+    });	
+	
+/**
+
+   
     
 pop.flickr({
 	start: 80,

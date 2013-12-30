@@ -175,6 +175,15 @@ pop.flickr({
 	target: "show"
 	});
 	
+pop.footnote({
+        start: 113,
+        end: 148,
+        text: '<iframe width="560" height="315" src="//www.youtube.com/embed/dkCCHKUE5U4?rel=0&start=20" frameborder="0" allowfullscreen></iframe>',
+        target: "show"
+        });
+	
+	
+	
 /**
 
 pop.googlemap({

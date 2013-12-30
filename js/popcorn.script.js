@@ -344,7 +344,7 @@ pop.footnote({
         start: 580,
         end: 765,
         text: '<iframe src="//player.vimeo.com/video/55480114" width="500" height="281" frameborder="0" autoplay webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>',
-        target: "info"
+        target: "show"
         });
 	
 /**

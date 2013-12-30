@@ -184,7 +184,7 @@ pop.footnote({
 	
 pop.googlemap({
     start: 210,
-    end: 220,
+    end: 212,
     type: "ROADMAP",
     target: "show",
     location: "51.49444,-0.09591",
@@ -194,8 +194,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 220,
-    end: 225,
+    start: 212,
+    end: 214,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -205,8 +205,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 225,
-    end: 230,
+    start: 214,
+    end: 216,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -216,8 +216,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 230,
-    end: 235,
+    start: 216,
+    end: 218,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -227,8 +227,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 235,
-    end: 240,
+    start: 218,
+    end: 220,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -238,8 +238,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 240,
-    end: 245,
+    start: 220,
+    end: 222,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -249,8 +249,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 245,
-    end: 250,
+    start: 222,
+    end: 224,
     type: "SATELLITE",
     target: "show",
     location: "51.49444,-0.09591",
@@ -260,8 +260,8 @@ pop.googlemap({
     });
     
 pop.googlemap({
-    start: 250,
-    end: 290,
+    start: 224,
+    end: 251,
     type: "STREETVIEW",
     target: "show",
     location: "51.49444,-0.09591",
@@ -269,6 +269,34 @@ pop.googlemap({
   	pitch: 5,
   	zoom: 0
     });	
+    
+pop.image({
+    start: 251
+    end: 262
+    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/-RpeglB-7H/fire_girl_lg.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ"
+    target: "show"
+    });	
+    
+pop.image({
+    start: 262
+    end: 273
+    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/EO83YfCMtp/ghost-window.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ"
+    target: "show"
+    });	
+    
+pop.image({
+    start: 273
+    end: 284
+    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/c_RiUGwwnO/ghost%2Bwindow.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ"
+    target: "show"
+    });	
+    
+pop.image({
+    start: 284
+    end: 295
+    src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/pKugsYU8PA/images.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ"
+    target: "show"
+    });
 	
 /**
 

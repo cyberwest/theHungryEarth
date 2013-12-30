@@ -3,7 +3,7 @@ var pop = Popcorn.soundcloud( "#video", "http://soundcloud.com/corneliuszg/hungr
 pop.flickr({
 	start: 0,
 	end: 2,
-	tags: "heygate",
+	tags: "heygate,garden",
 	numberofimages: 1,
 	height: "200px",
 	width: "200px",

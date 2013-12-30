@@ -13,7 +13,7 @@ pop.flickr({
 	start: 0,
 	end: 2,
 	tags: "Heygate community garden",
-	numberofimages: 1
+	numberofimages: 1,
 	height: "200px",
 	width: "200px",
 	target: "show"
@@ -23,7 +23,7 @@ pop.flickr({
 	start: 2,
 	end: 4,
 	tags: "Heygate community garden",
-	numberofimages: 2
+	numberofimages: 2,
 	height: "200px",
 	width: "200px",
 	target: "show"
@@ -33,7 +33,7 @@ pop.flickr({
 	start: 4,
 	end: 6,
 	tags: "Heygate community garden",
-	numberofimages: 3
+	numberofimages: 3,
 	height: "200px",
 	width: "200px",
 	target: "show"
@@ -43,7 +43,7 @@ pop.flickr({
 	start: 6,
 	end: 8,
 	tags: "Heygate community garden",
-	numberofimages: 4
+	numberofimages: 4,
 	height: "200px",
 	width: "200px",
 	target: "show"
@@ -53,7 +53,7 @@ pop.flickr({
 	start: 8,
 	end: 10,
 	tags: "Heygate community garden",
-	numberofimages: 5
+	numberofimages: 5,
 	height: "200px",
 	width: "200px",
 	target: "show"
@@ -63,7 +63,7 @@ pop.flickr({
 	start: 10,
 	end: 12,
 	tags: "Heygate community garden",
-	numberofimages: 6
+	numberofimages: 6,
 	height: "200px",
 	width: "200px",
 	target: "show"
@@ -73,7 +73,7 @@ pop.flickr({
 	start: 12,
 	end: 14,
 	tags: "Heygate community garden",
-	numberofimages: 7
+	numberofimages: 7,
 	height: "200px",
 	width: "200px",
 	target: "show"
@@ -83,7 +83,7 @@ pop.flickr({
 	start: 14,
 	end: 16,
 	tags: "Heygate community garden",
-	numberofimages: 8
+	numberofimages: 8,
 	height: "200px",
 	width: "200px",
 	target: "show"
@@ -93,7 +93,7 @@ pop.flickr({
 	start: 16,
 	end: 18,
 	tags: "Heygate community garden",
-	numberofimages: 9
+	numberofimages: 9,
 	height: "200px",
 	width: "200px",
 	target: "show"
@@ -103,7 +103,7 @@ pop.flickr({
 	start: 18,
 	end: 20,
 	tags: "Heygate community garden",
-	numberofimages: 10
+	numberofimages: 10,
 	height: "200px",
 	width: "200px",
 	target: "show"

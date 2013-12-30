@@ -1,18 +1,9 @@
 var pop = Popcorn.soundcloud( "#video", "http://soundcloud.com/corneliuszg/hungry-earth-mix01" );
 
-/**
-pop.footnote({
-    start: 1,
-    end: 5,
-    text: "Works with SoundCloud!",
-    target: "show"
-});
-**/  
-    
 pop.flickr({
 	start: 0,
 	end: 2,
-	tags: "heygate, community, garden",
+	tags: "heygate",
 	numberofimages: 1,
 	height: "200px",
 	width: "200px",

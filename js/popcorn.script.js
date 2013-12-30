@@ -297,10 +297,57 @@ pop.image({
     src: "https://dl.dropboxusercontent.com/sh/ynnkvulcrr6briq/pKugsYU8PA/images.jpg?token_hash=AAG0pM6V9U9MRbqC4J4HTd7LjNjCrNfT2drG_mf723pDJQ",
     target: "show"
     });
+    
+pop.flickr({
+	start: 295,
+	end: 363,
+	tags: "heygate,night",
+	numberofimages: 5,
+	height: "200px",
+	width: "200px",
+	target: "show"
+	});
+    
+pop.googlemap({
+    start: 363,
+    end: 405,
+    type: "TERRAIN",
+    target: "show",
+    location: "51.49444,-0.09591"
+    });
+	
+pop.footnote({
+        start: 405,
+        end: 470,
+        text: '<iframe width="560" height="315" src="http://www.standard.co.uk/news/london/heygates-last-resident-in-standoff-over-eviction-order-8921868.html"></iframe>',
+        target: "info"
+        });
+	
+pop.image({
+        start: 470,
+        end: 520,
+        src: "http://southwarknotes.files.wordpress.com/2009/12/2011heartofelephantandcastleurbanforest1.jpg",
+        target: "show"
+        });
+    
+pop.flickr({
+	start: 520,
+	end: 580,
+	tags: "heygate,garden",
+	numberofimages: 20,
+	height: "100px",
+	width: "100px",
+	target: "show"
+	});
+	
+pop.footnote({
+        start: 580,
+        end: 765,
+        text: '<iframe src="//player.vimeo.com/video/55480114" width="500" height="281" frameborder="0" autoplay webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>',
+        target: "info"
+        });
 	
 /**
-
-   
     
 pop.flickr({
 	start: 80,

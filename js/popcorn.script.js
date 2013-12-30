@@ -12,7 +12,7 @@ pop.footnote({
 pop.flickr({
 	start: 0,
 	end: 2,
-	tags: "Heygate community garden",
+	tags: "heygate, community, garden",
 	numberofimages: 1,
 	height: "200px",
 	width: "200px",

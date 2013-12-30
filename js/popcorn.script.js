@@ -1,18 +1,26 @@
 var pop = Popcorn.soundcloud( "#video", "http://soundcloud.com/corneliuszg/hungry-earth-mix01" );
 
 pop.flickr({
-	start: 0,
-	end: 2,
+	start: 1,
+	end: 3,
 	tags: "heygate,garden",
 	numberofimages: 1,
 	height: "200px",
 	width: "200px",
 	target: "show"
 	});
+	
+pop.wikipedia({
+       start: 0,
+       end: 20,
+       src: "http://en.wikipedia.org/wiki/Heygate_Estate",
+       title: "Heygate Estate",
+       target: "info"
+       });
     
 pop.flickr({
-	start: 2,
-	end: 4,
+	start: 3,
+	end: 5,
 	tags: "heygate,garden",
 	numberofimages: 2,
 	height: "200px",
@@ -21,8 +29,8 @@ pop.flickr({
 	});
     
 pop.flickr({
-	start: 4,
-	end: 6,
+	start: 5,
+	end: 7,
 	tags: "heygate,garden",
 	numberofimages: 3,
 	height: "200px",
@@ -31,8 +39,8 @@ pop.flickr({
 	});
     
 pop.flickr({
-	start: 6,
-	end: 8,
+	start: 7,
+	end: 9,
 	tags: "heygate,garden",
 	numberofimages: 4,
 	height: "200px",
@@ -41,8 +49,8 @@ pop.flickr({
 	});
     
 pop.flickr({
-	start: 8,
-	end: 10,
+	start: 9,
+	end: 11,
 	tags: "heygate,garden",
 	numberofimages: 5,
 	height: "200px",
@@ -51,52 +59,52 @@ pop.flickr({
 	});
     
 pop.flickr({
-	start: 10,
-	end: 12,
+	start: 11,
+	end: 13,
 	tags: "heygate,garden",
 	numberofimages: 6,
-	height: "200px",
-	width: "200px",
+	height: "100px",
+	width: "100px",
 	target: "show"
 	});
     
 pop.flickr({
-	start: 12,
-	end: 14,
+	start: 13,
+	end: 15,
 	tags: "heygate,garden",
 	numberofimages: 7,
-	height: "200px",
-	width: "200px",
+	height: "100px",
+	width: "100px",
 	target: "show"
 	});
     
 pop.flickr({
-	start: 14,
-	end: 16,
+	start: 15,
+	end: 17,
 	tags: "heygate,garden",
 	numberofimages: 8,
-	height: "200px",
-	width: "200px",
+	height: "100px",
+	width: "100px",
 	target: "show"
 	});
     
 pop.flickr({
-	start: 16,
-	end: 18,
+	start: 17,
+	end: 19,
 	tags: "heygate,garden",
 	numberofimages: 9,
-	height: "200px",
-	width: "200px",
+	height: "100px",
+	width: "100px",
 	target: "show"
 	});
     
 pop.flickr({
-	start: 18,
-	end: 20,
+	start: 19,
+	end: 21,
 	tags: "heygate,garden",
 	numberofimages: 10,
-	height: "200px",
-	width: "200px",
+	height: "100px",
+	width: "100px",
 	target: "show"
 	});
 	

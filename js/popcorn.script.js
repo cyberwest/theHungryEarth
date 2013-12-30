@@ -124,6 +124,56 @@ pop.flickr({
 	width: "200px",
 	target: "show"
 	});
+        
+pop.flickr({
+	start: 25,
+	end: 30,
+	tags: "three,men,shadows",
+	numberofimages: 2,
+	height: "200px",
+	width: "200px",
+	target: "show"
+	});
+        
+pop.flickr({
+	start: 30,
+	end: 35,
+	tags: "three,men,shadows",
+	numberofimages: 3,
+	height: "200px",
+	width: "200px",
+	target: "show"
+	});
+        
+pop.flickr({
+	start: 35,
+	end: 40,
+	tags: "three,men,shadows",
+	numberofimages: 4,
+	height: "200px",
+	width: "200px",
+	target: "show"
+	});
+        
+pop.flickr({
+	start: 40,
+	end: 45,
+	tags: "three,men,shadows",
+	numberofimages: 5,
+	height: "200px",
+	width: "200px",
+	target: "show"
+	});
+        
+pop.flickr({
+	start: 45,
+	end: 50,
+	tags: "three,men,shadows",
+	numberofimages: 6,
+	height: "100px",
+	width: "100px",
+	target: "show"
+	});
 	
 /**
 
